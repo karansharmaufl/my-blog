@@ -14,8 +14,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 className="text-8xl font-mono subpixel-antialiased font-semibold">Karan Sharma</h1>
-        <div className="flex flex-row mt-6 space-x-6 text-lg font-mono font-medium hover:underline">
-          <a href="mailto:sharma.karan9341@gmail.com">
+        <div className="flex flex-row mt-6 space-x-6 text-lg font-mono font-medium">
+          <a href="mailto:sharma.karan9341@gmail.com" class="hover:underline">
             <span class="[&>svg]:h-6 [&>svg]:w-6 flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +28,7 @@ function App() {
               sharma.karan9341@gmail.com
             </span>
           </a>
-          <a href="https://www.linkedin.com/in/ksh24" target="_blank">
+          <a href="https://www.linkedin.com/in/ksh24" target="_blank" class="hover:underline">
             <span class="[&>svg]:h-6 [&>svg]:w-6 flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -41,7 +41,7 @@ function App() {
               https://www.linkedin.com/in/ksh24
             </span>
           </a>
-          <a href="https://github.com/karansharmaufl" target="_blank">
+          <a href="https://github.com/karansharmaufl" target="_blank" class="hover:underline">
             <span class="[&>svg]:h-6 [&>svg]:w-6 flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

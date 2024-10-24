@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 className="text-8xl font-mono subpixel-antialiased font-semibold">Karan Sharma</h1>
-        <div className="flex flex-row mt-6 space-x-6 text-lg font-mono font-medium underline">
+        <div className="flex flex-row mt-6 space-x-6 text-lg font-mono font-medium hover:underline">
           <a href="mailto:sharma.karan9341@gmail.com">
             <span class="[&>svg]:h-6 [&>svg]:w-6 flex">
               <svg
